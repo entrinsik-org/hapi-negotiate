@@ -1,2 +1,2 @@
-# hapi-sequelize
-sequelize utilities for hapi
+# hapi-negotiate
+response negotiation for hapi
