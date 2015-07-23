@@ -1,6 +1,6 @@
 {
   "name": "ent-hapi-negotiate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hapi content negotiation",
   "main": "lib/index.js",
   "directories": {
